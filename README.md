@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer working in Tokyo, Japan. Also iOS jailbreak developer, Minecraft modder
+#### I'm a Software Engineer working in Tokyo, Japan.
 
-- ⚙️ I use daily: `.java`, `.ts`, `.js`, `.html`, `.css`, `.xm`, `.m`
-- 🌍 I'm mostly active within the **Jailbreak Community**
+- ⚙️ I use daily: `.java`, `.ts`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **web server**, **fullstack development**, **iOS jailbreak development**
-- 📫 Reach me: [twitter.com/haoict](https://twitter.com/haoict)
+- 💬 Ping me about **fullstack development**, **devOps**
+- 🌍 Reach me: [twitter.com/haoict](https://twitter.com/haoict)
